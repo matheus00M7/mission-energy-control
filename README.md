@@ -20,11 +20,11 @@ O sistema busca representar, de forma simplificada, como um centro de controle p
 
 ## Contexto da solução
 
-Em missões espaciais, o controle de energia é um fator essencial para a segurança e continuidade da operação. Sistemas como painéis solares, baterias, comunicação, navegação e suporte à vida precisam ser constantemente monitorados.
+Em uma missão espacial experimental, a energia precisa ser usada de forma controlada, pois vários sistemas dependem dela para continuar funcionando corretamente. Módulos como geração solar, armazenamento em bateria, comunicação e suporte à vida podem influenciar diretamente a estabilidade da operação.
 
-Caso algum módulo apresente falha, baixa energia, superaquecimento ou perda de comunicação, o sistema deve identificar rapidamente o problema e sugerir ações corretivas.
+Diante disso, o **Mission Energy Control** foi criado para representar uma simulação de acompanhamento desses módulos. O sistema analisa os dados recebidos, identifica possíveis riscos operacionais e organiza as informações de forma clara para facilitar a tomada de decisão.
 
-O **Mission Energy Control** simula esse cenário, permitindo a análise de módulos operacionais e a geração de alertas automáticos conforme os dados recebidos.
+A proposta é mostrar como a programação pode ser aplicada no monitoramento energético de ambientes críticos, contribuindo para uma operação mais segura, eficiente e alinhada ao uso consciente dos recursos disponíveis.
 
 ---
 
