@@ -182,7 +182,7 @@ A solução simula a análise de sistemas que dependem de energia para funcionar
 Link do vídeo no YouTube:
 
 ```text
-COLOCAR AQUI O LINK DO VÍDEO NÃO LISTADO
+https://youtu.be/IN7KoOgB3MQ
 ```
 
 ---
